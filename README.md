@@ -1,5 +1,5 @@
 ## Olá, Eu sou Felipe Pestana!
-Sou um estudante apaixonado por tecnologia e desenvolvimento de software, com foco em me tornar um programador back-end. Minha jornada na programação começou ao explorar as bases de HTML, CSS e JavaScript, o que me proporcionou uma compreensão sólida do funcionamento do front-end. No entanto, descobri minha verdadeira paixão ao mergulhar no mundo do back-end, trabalhando com linguagens como PHP e Java (nível introdutório), além de bancos de dados MySQL.
+Sou um estudante apaixonado por tecnologia e desenvolvimento de software, com foco em me tornar um programador back-end. Minha jornada na programação começou ao explorar as bases de HTML, CSS e JavaScript, o que me proporcionou uma compreensão sólida do funcionamento do front-end. No entanto, descobri minha verdadeira paixão ao mergulhar no mundo do back-end, trabalhando com linguagens como PHP e Java, além de bancos de dados MySQL.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pestanadev)](https://github.com/anuraghazra/github-readme-stats)
 
